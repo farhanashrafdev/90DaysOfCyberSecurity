@@ -26,7 +26,7 @@
 
 
 ## Day 43-56: Traffic Analysis
-- Take the Wireshark University course: https://wireshark.org/training/](https://www.wireshark.org/#educationalContent
+- Take the Wireshark University course: [https://wireshark.org/training/](https://www.wireshark.org/#educationalContent)
 - Follow the Wireshark Tutorial on guru99: [https://guru99.com/wireshark-tutorial.html](https://www.guru99.com/wireshark-passwords-sniffer.html)
 - Read through the TCPdump Tutorial on DanielMiessler: https://danielmiessler.com/study/tcpdump/
 - Read through the Suricata on pfSense guide: [https://doc.pfsense.org/index.php/Suricata](https://docs.netgate.com/pfsense/en/latest/packages/snort/index.html)
