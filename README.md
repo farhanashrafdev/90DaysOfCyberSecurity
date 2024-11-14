@@ -21,6 +21,7 @@
 - Talk Python to Me: https://talkpython.fm/
 - Read "Learn Python the Hard Way": https://learnpythonthehardway.org
 - Hackerrank
+- CyberPython: https://pythoncyber.go.ro
 ### Youtube Course:
 - https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor
 
