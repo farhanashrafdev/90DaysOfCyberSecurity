@@ -1,7 +1,7 @@
 # 90-Day Cybersecurity Study Plan
 
 ## Day 1-7: Network+
-- Watch videos from Professor Messer's N10-008 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G
+- Watch videos from Professor Messer's N10-009 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6
 - Complete any related practice questions or exercises.
 
 ## Day 8-14: Security+
