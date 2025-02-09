@@ -76,3 +76,4 @@
 ## Day 93-95: Where and How to Apply
 Search for jobs on Indeed: https://indeed.com
 Look for opportunities on LinkedIn: https://linkedin.com
+These are the cyber security resources
