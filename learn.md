@@ -3,6 +3,9 @@
 ## Network+
 - Professor Messer's N10-008 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G
 
+## Pentest+
+- Pentest+ paid resources: https://www.linkedin.com/learning/comptia-pentest-plus-pt0-002-cert-prep
+
 ## Security+
 - Professor Messer's SYO-601 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
 
