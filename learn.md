@@ -1,15 +1,14 @@
 # Learning Resources
 
 ## Network+
-- Professor Messer's N10-008 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G
+- Professor Messer's N10-009 Playlist: https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8
 
 ## Security+
-- Professor Messer's SYO-601 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
+- Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) or [Pete Zerger's SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)
 
 ## Linux
-- Ryan's Tutorials: https://ryanstutorials.net/linuxtutorial/
-- EdX Linux course: https://edx.org/learn/linux
-- Linux Documentation Project (LDP): http://tldp.org
+- Browse through the Linux Journey tutorials: https://linuxjourney.com/
+- Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
 
 ## Python
 - Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
@@ -37,8 +36,7 @@
 - AWS Tutorials: https://aws.amazon.com/tutorials/
 
 ## Azure
-- Introduction to Microsoft Azure: https://bowtiedcyber.substack.com/p/introduction-to-microsoft-azure
-- Azure Fundamentals: https://docs.microsoft.com/en-us/learn/azure/
+- Azure Fundamentals: https://learn.microsoft.com/en-us/training/courses/az-900t00
 
 ## Hacking
 - Cyber Talents: https://cybertalents.com

@@ -5,13 +5,13 @@
 - Complete any related practice questions or exercises.
 
 ## Day 8-14: Security+
-- Watch videos from Professor Messer's SYO-601 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
+- Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) or [Pete Zerger's SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n).
 - Complete any related practice questions or exercises.
 
 ## Day 15-28: Linux
-- Follow the tutorials on Ryan's Tutorials: https://ryanstutorials.net/linuxtutorial/
-- Take the Linux course on EdX: https://edx.org/learn/linux
-- Read through the Linux Documentation Project (LDP): http://tldp.org
+- Browse through the Linux Journey tutorials: https://linuxjourney.com/
+- Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
+
 
 ## Day 29-42: Python
 - https://www.hackerrank.com/domains/python
@@ -58,7 +58,7 @@
 - Browse through the AWS Tutorials: https://aws.amazon.com/tutorials/
 
 ###  Azure
-- Go through Azure Fundamentals: https://docs.microsoft.com/en-us/learn/azure/
+- Go through Azure Fundamentals: https://learn.microsoft.com/en-us/training/courses/az-900t00
 
 ## Day 85-90: Hacking
 
