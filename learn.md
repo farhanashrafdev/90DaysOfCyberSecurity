@@ -4,11 +4,12 @@
 - Professor Messer's N10-009 Playlist: https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8
 
 ## Security+
-- Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) or [Pete Zerger's SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)
+- Professor Messer's SY0-701 Playlist:https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv
+- Pete Zerger's SY0-701 Playlist https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n
 
 ## Linux
-- Browse through the Linux Journey tutorials: https://linuxjourney.com/
-- Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
+- Linux Journey tutorials: https://linuxjourney.com/
+- Linux Unhatched course on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
 
 ## Python
 - Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
