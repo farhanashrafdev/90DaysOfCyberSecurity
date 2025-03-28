@@ -1,16 +1,16 @@
 # 90-Day Cybersecurity Study Plan
 
 ## Day 1-7: Network+
-- Watch videos from Professor Messer's N10-009 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6
+- Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
 
 ## Day 8-14: Security+
 
-### Strongly Recommend Professor Messer's:
-- Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
-  
-### Another Alternative you can use: 
-- Pete Zerger's SY0-701 Playlist [Pete Zerger's SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)
+  ### Strongly Recommend Professor Messer's:
+  - Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+    
+  ### Another Alternative you can use: 
+  - Pete Zerger's SY0-701 Playlist [Pete Zerger's SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)
 
 - Complete any related practice questions or exercises.
 
