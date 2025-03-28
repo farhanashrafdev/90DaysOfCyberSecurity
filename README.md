@@ -1,6 +1,6 @@
 # 90-Day Cybersecurity Study Plan
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Day 1-7: Network+
@@ -121,6 +121,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/farhanashrafdev"><img src="https://avatars.githubusercontent.com/u/53370109?v=4?s=100" width="100px;" alt="Farhan Ashraf"/><br /><sub><b>Farhan Ashraf</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=farhanashrafdev" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Wanderer479"><img src="https://avatars.githubusercontent.com/u/189002484?v=4?s=100" width="100px;" alt="Wanderer479"/><br /><sub><b>Wanderer479</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=Wanderer479" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MahadMuhammad"><img src="https://avatars.githubusercontent.com/u/95980383?v=4?s=100" width="100px;" alt="Muhammad Mahad"/><br /><sub><b>Muhammad Mahad</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=MahadMuhammad" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andreluis-oliveira"><img src="https://avatars.githubusercontent.com/u/53203742?v=4?s=100" width="100px;" alt="André Oliveira"/><br /><sub><b>André Oliveira</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=andreluis-oliveira" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
