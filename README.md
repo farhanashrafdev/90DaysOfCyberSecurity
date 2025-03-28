@@ -87,6 +87,27 @@
 Search for jobs on Indeed: https://indeed.com
 Look for opportunities on LinkedIn: https://linkedin.com
 
+
+
+## 🎉 Contributors
+
+Thank you for being a part of the 90DaysOfCyberSecurity community! We appreciate everyone who helps improve our content.
+
+### Contribution Categories:
+- **Documentation**: Improve or add to the study material and guides.
+- **Tutorials & Guides**: Create or enhance tutorials explaining complex concepts.
+- **Suggested Resources**: Recommend useful tools, articles, books, or other resources.
+- **Ideas / Topics**: Suggest new topics to be added to the learning materials.
+- **Review & Feedback**: Provide feedback on existing materials and suggest improvements.
+- **Community Support**: Answer questions and help others in discussions or issues.
+- **Tests & Quizzes**: Add quizzes, challenges, or tests to check learning progress.
+- **Real-World Applications**: Share real-life examples or case studies of cybersecurity practices.
+- **Mentoring**: Help others with study advice, tips, or hosting study sessions.
+
+Thank you to all contributors for your amazing work! 🎉
+
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -108,3 +129,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
