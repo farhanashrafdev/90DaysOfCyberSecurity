@@ -6,7 +6,7 @@
 ## Security+
 
 ### Strongly recommend this:
-- Professor Messer's SY0-701 Playlist:https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv
+- Professor Messer's SY0-701 Playlist: https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv
 
 ### another alternative you can also use:
 - Pete Zerger's SY0-701 Playlist https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n
