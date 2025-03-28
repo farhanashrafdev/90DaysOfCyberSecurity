@@ -4,7 +4,11 @@
 - Professor Messer's N10-009 Playlist: https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8
 
 ## Security+
+
+#Strongly recommend this:
 - Professor Messer's SY0-701 Playlist:https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv
+
+## another alternative you can also use:
 - Pete Zerger's SY0-701 Playlist https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n
 
 ## Linux
@@ -37,7 +41,7 @@
 - AWS Tutorials: https://aws.amazon.com/tutorials/
 
 ## Azure
-- Azure Fundamentals: https://learn.microsoft.com/en-us/training/courses/az-900t00
+- Azure Fundamentals: https://learn.microsoft.com/training/azure/
 
 ## Hacking
 - Cyber Talents: https://cybertalents.com
