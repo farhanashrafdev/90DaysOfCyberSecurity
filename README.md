@@ -6,10 +6,11 @@
 
 ## Day 8-14: Security+
 
-### Strongly Recommended:
+- ### Strongly Recommend Professor Messer's:
 - Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) 
-### Another Alternative you can use:
-[Pete Zerger's SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n).
+- ### Another Alternative you can use: 
+- Pete Zerger's SY0-701 Playlist [Pete Zerger's SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)
+
 - Complete any related practice questions or exercises.
 
 ## Day 15-28: Linux
