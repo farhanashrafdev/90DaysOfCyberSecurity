@@ -120,7 +120,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/farhanashrafdev">
-          <img src="https://avatars.githubusercontent.com/u/53370109?v=4?s=100" width="100px;" alt="Farhan Ashraf"/>
+          <img src="https://avatars.githubusercontent.com/u/53370109?v=4?s=100" width="100px" alt="Farhan Ashraf"/>
         </a><br />
         <sub><b>Farhan Ashraf</b></sub><br />
         <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=farhanashrafdev" title="Documentation">📖</a> 
@@ -129,7 +129,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/Wanderer479">
-          <img src="https://avatars.githubusercontent.com/u/189002484?v=4?s=100" width="100px;" alt="Wanderer479"/>
+          <img src="https://avatars.githubusercontent.com/u/189002484?v=4?s=100" width="100px" alt="Wanderer479"/>
         </a><br />
         <sub><b>Wanderer479</b></sub><br />
         <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=Wanderer479" title="Documentation">📖</a>
@@ -137,7 +137,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/MahadMuhammad">
-          <img src="https://avatars.githubusercontent.com/u/95980383?v=4?s=100" width="100px;" alt="Muhammad Mahad"/>
+          <img src="https://avatars.githubusercontent.com/u/95980383?v=4?s=100" width="100px" alt="Muhammad Mahad"/>
         </a><br />
         <sub><b>Muhammad Mahad</b></sub><br />
         <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=MahadMuhammad" title="Documentation">📖</a> 
@@ -146,7 +146,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/andreluis-oliveira">
-          <img src="https://avatars.githubusercontent.com/u/53203742?v=4?s=100" width="100px;" alt="André Oliveira"/>
+          <img src="https://avatars.githubusercontent.com/u/53203742?v=4?s=100" width="100px" alt="André Oliveira"/>
         </a><br />
         <sub><b>André Oliveira</b></sub><br />
         <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=andreluis-oliveira" title="Documentation">📖</a>
@@ -154,6 +154,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
   </tbody>
 </table>
+
 
 
 <!-- markdownlint-restore -->
