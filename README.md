@@ -1,6 +1,6 @@
 # 90-Day Cybersecurity Study Plan
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Day 1-7: Network+
@@ -87,6 +87,27 @@
 Search for jobs on Indeed: https://indeed.com
 Look for opportunities on LinkedIn: https://linkedin.com
 
+
+
+## 🎉 Contributors
+
+Thank you for being a part of the 90DaysOfCyberSecurity community! We appreciate everyone who helps improve our content.
+
+### Contribution Categories:
+- **Documentation**: Improve or add to the study material and guides.
+- **Tutorials & Guides**: Create or enhance tutorials explaining complex concepts.
+- **Suggested Resources**: Recommend useful tools, articles, books, or other resources.
+- **Ideas / Topics**: Suggest new topics to be added to the learning materials.
+- **Review & Feedback**: Provide feedback on existing materials and suggest improvements.
+- **Community Support**: Answer questions and help others in discussions or issues.
+- **Tests & Quizzes**: Add quizzes, challenges, or tests to check learning progress.
+- **Real-World Applications**: Share real-life examples or case studies of cybersecurity practices.
+- **Mentoring**: Help others with study advice, tips, or hosting study sessions.
+
+Thank you to all contributors for your amazing work! 🎉
+
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -97,7 +118,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
+
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/farhanashrafdev"><img src="https://avatars.githubusercontent.com/u/53370109?v=4?s=100" width="100px;" alt="Farhan Ashraf"/><br /><sub><b>Farhan Ashraf</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=farhanashrafdev" title="Documentation">📖</a> <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/issues?q=author%3Afarhanashrafdev" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Wanderer479"><img src="https://avatars.githubusercontent.com/u/189002484?v=4?s=100" width="100px;" alt="Wanderer479"/><br /><sub><b>Wanderer479</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=Wanderer479" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MahadMuhammad"><img src="https://avatars.githubusercontent.com/u/95980383?v=4?s=100" width="100px;" alt="Muhammad Mahad"/><br /><sub><b>Muhammad Mahad</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=MahadMuhammad" title="Documentation">📖</a> <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/issues?q=author%3Afarhanashrafdev" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andreluis-oliveira"><img src="https://avatars.githubusercontent.com/u/53203742?v=4?s=100" width="100px;" alt="André Oliveira"/><br /><sub><b>André Oliveira</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=andreluis-oliveira" title="Documentation">📖</a></td>
+
     </tr>
   </tbody>
 </table>
@@ -108,3 +134,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+

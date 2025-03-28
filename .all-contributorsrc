@@ -16,6 +16,33 @@
         "doc",
         "bug"
       ]
+    },
+    {
+      "login": "Wanderer479",
+      "name": "Wanderer479",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189002484?v=4",
+      "profile": "https://github.com/Wanderer479",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "MahadMuhammad",
+      "name": "Muhammad Mahad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95980383?v=4",
+      "profile": "https://github.com/MahadMuhammad",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "andreluis-oliveira",
+      "name": "André Oliveira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53203742?v=4",
+      "profile": "https://github.com/andreluis-oliveira",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
