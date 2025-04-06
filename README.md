@@ -24,23 +24,21 @@
 
 
 ## Day 29-42: Python
-- https://www.hackerrank.com/domains/python
 - Complete Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
-- Python.org: https://www.w3schools.com/python/
+- Python.org: https://www.python.org/
 - Real Python: https://realpython.com/
 - Talk Python to Me: https://talkpython.fm/
 - Read "Learn Python the Hard Way": https://learnpythonthehardway.org
-- Hackerrank
+- HackerRank Python: https://www.hackerrank.com/domains/python
 ### Youtube Course:
 - https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor
 
 
 ## Day 43-56: Traffic Analysis
 - Take the Wireshark University course: [https://wireshark.org/training/](https://www.wireshark.org/#educationalContent)
-- Follow the Wireshark Tutorial on guru99: [https://guru99.com/wireshark-tutorial.html](https://www.guru99.com/wireshark-passwords-sniffer.html)
+- Follow the Wireshark Tutorial on guru99: https://guru99.com/wireshark-tutorial.html
 - Read through the TCPdump Tutorial on DanielMiessler: https://danielmiessler.com/study/tcpdump/
-- Read through the Suricata on pfSense guide: [https://doc.pfsense.org/index.php/Suricata](https://docs.netgate.com/pfsense/en/latest/packages/snort/index.html)
-### Youtube:
+- Read through the Suricata on pfSense guide: https://doc.pfsense.org/index.php/Suricata
 - Wireshark Tutorial for Beginners series https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB
 - Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
 
@@ -48,12 +46,13 @@
 - Complete Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
 - Follow the Git Immersion tutorial: http://gitimmersion.com
 - Try Git: https://try.github.io
+- Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
 
 ## Day 64-70: ELK
 - Follow the ELK Stack Tutorial on Logz.io: [https://logz.io/learn/complete-elk-stack-tutorial/](https://logz.io/learn/complete-guide-elk-stack/)
 - Browse through the ELK Stack tutorials on Elastic: [https://elastic.co/learn/elastic-stack](https://www.elastic.co/elastic-stack/features)
 
-## Day 71-77:
+## Day 71-77: Cloud Platforms
 
 ## Any one of them works fine.
 
@@ -62,13 +61,17 @@
 -  Google Cloud Platform Documentation: https://cloud.google.com/docs/
 -  Google Cloud Platform Blog: https://cloud.google.com/blog/
 -  Google Cloud Platform Community: https://cloud.google.com/community/
+-   Try hands-on challenges with [Google Cloud Skills Boost](https://www.cloudskillsboost.google)
 
 ### AWS
 - Explore the AWS Getting Started Resource Center: https://aws.amazon.com/getting-started/
 - Browse through the AWS Tutorials: https://aws.amazon.com/tutorials/
+- Learn through gamified labs on [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+
 
 ###  Azure
 - Go through Azure Fundamentals: https://learn.microsoft.com/en-us/training/azure/
+- Complete the [Microsoft Learn Azure labs](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) with sandbox environments
 
 ## Day 85-90: Hacking
 
