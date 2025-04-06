@@ -35,10 +35,11 @@
 
 
 ## Day 43-56: Traffic Analysis
-- Take the Wireshark University course: [https://wireshark.org/training/](https://www.wireshark.org/#educationalContent)
+- Take the Wireshark University course: https://www.wireshark.org/#educationalContent
 - Follow the Wireshark Tutorial on guru99: https://guru99.com/wireshark-tutorial.html
 - Read through the TCPdump Tutorial on DanielMiessler: https://danielmiessler.com/study/tcpdump/
 - Read through the Suricata on pfSense guide: https://doc.pfsense.org/index.php/Suricata
+  ### Youtube:
 - Wireshark Tutorial for Beginners series https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB
 - Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
 
