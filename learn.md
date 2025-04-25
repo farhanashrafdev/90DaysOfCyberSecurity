@@ -3,6 +3,9 @@
 ## Network+
 - Professor Messer's N10-009 Playlist: https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8
 
+## Pentest+
+- Pentest+ paid resources: https://www.linkedin.com/learning/comptia-pentest-plus-pt0-002-cert-prep
+
 ## Security+
 
 ### Strongly recommend this:
