@@ -3,6 +3,70 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+## 📚 Table of Contents
+
+- [Introduction](#introduction)
+- [Goals and Audience](#goals-and-audience)
+- [Daily Breakdown](#daily-breakdown)
+  - [Day 1-7: Network+ Concepts](#network+-concepts)
+  - [Day 8-14: Security+ Concepts](#Security+-concepts)
+  - [Day 15-28: Linux Tutorials](#linux-tutorials)
+  - [Day 29-42: Python](#python)
+  - [Day 43-56: Traffic Analysis](#traffic-analysis)
+  - [Day 57-63: Git](#git)
+  - [Day 64-70: ELK](#elk)
+  - [Day 71-77: GCP or AWS or Azure ] (#gcp-or-aws-or-azure)
+  - [Day 85-90: Hacking](#hacking)
+  - [Day 91-92: One Page Resume](#one-page-resume)
+  - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
+- [Contributing](#contributing)]
+
+## 📘 Introduction
+
+Welcome to the **90 Days of Cybersecurity** challenge!  
+This repository provides a structured, 90-day self-paced study plan designed to help learners build a strong foundation in cybersecurity. Whether you're a beginner looking to break into the field or a professional aiming to sharpen your skills, this roadmap offers a wide range of curated resources, hands-on tasks, and learning materials.
+
+The daily modules cover essential and advanced topics, including:
+
+- Networking fundamentals (Network+)
+- Security principles (Security+)
+- Linux basics and shell scripting
+- Python programming for security tasks
+- Traffic analysis and packet inspection
+- Version control with Git
+- SIEM tools and log analysis using the ELK stack
+- Cloud security with GCP, AWS and Azure
+- Penetration testing and ethical hacking
+
+Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`LEARN.md`](./LEARN.md).
+
+## 🎯 Goals and Audience
+
+### 📌 Goals
+
+The primary goal of this 90-day plan is to help learners:
+
+- Build a solid foundation in core cybersecurity concepts and practices.
+- Gain hands-on experience through daily exercises and real-world tools.
+- Develop the technical skills necessary for certifications such as CompTIA Network+ and Security+.
+- Explore key domains including network security, system hardening, cloud security, scripting, and ethical hacking.
+- Cultivate a consistent learning habit over 90 days to support long-term retention and growth.
+
+By the end of this journey, you should feel confident navigating a variety of cybersecurity tools, concepts, and techniques.
+
+### 👥 Intended Audience
+
+This repository is ideal for:
+
+- **Aspiring cybersecurity professionals** preparing for entry-level roles or certifications.
+- **IT professionals** transitioning into a security-focused career.
+- **Students** studying computer science, information systems, or network engineering.
+- **Self-learners** seeking a structured and comprehensive study plan.
+- **Developers and DevOps engineers** looking to better understand secure infrastructure and threat detection.
+- **Anyone curious** about how cybersecurity works in real-world environments.
+
+No prior experience is required, though basic familiarity with computers, networks, or programming will be helpful.
+
 ## Day 1-7: Network+
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
