@@ -42,6 +42,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ArbenP",
+      "name": "arbenp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62248907?v=4",
+      "profile": "https://github.com/ArbenP",
+      "contributions": [
+        "doc",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
