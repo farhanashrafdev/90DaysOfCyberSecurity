@@ -5,9 +5,9 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Goals and Audience](#goals-and-audience)
-- [Daily Breakdown](#daily-breakdown)
+- [Introduction](#--introduction)
+- [Goals and Audience](#--goals-and-audience)
+- Daily Breakdown
   - [Day 1: Introduction to Cybersecurity](#day-1-introduction-to-cybersecurity)
   - [Day 2-7: Network+ Concepts](#day-2-7-network)
   - [Day 8-14: Security+ Concepts](#day-8-14-security)
@@ -16,11 +16,11 @@
   - [Day 43-56: Traffic Analysis](#day-43-56-traffic-analysis)
   - [Day 57-63: Git](#day-57-63-git)
   - [Day 64-70: ELK](#day-64-70-elk)
-  - [Day 71-77: GCP or AWS or Azure ](#day-71-77-cloud-latforms)
+  - [Day 71-77: GCP or AWS or Azure ](#day-71-77-cloud-platforms)
   - [Day 85-90: Hacking](#day-85-90-hacking)
   - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
   - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
-- [Contributing](#contributing)
+- [Contributing](#--contributing)
 
 ## 📘 Introduction
 
