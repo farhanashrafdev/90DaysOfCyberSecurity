@@ -8,7 +8,7 @@
 - [Introduction](#introduction)
 - [Goals and Audience](#goals-and-audience)
 - [Daily Breakdown](#daily-breakdown)
-  - [Day 1: Introduction to Cybersecurity](#day-1:-introduction-to-cybersecurity)
+  - [Day 1: Introduction to Cybersecurity](#day-1-introduction-to-cybersecurity)
   - [Day 1-7: Network+ Concepts](#network+-concepts)
   - [Day 8-14: Security+ Concepts](#Security+-concepts)
   - [Day 15-28: Linux Tutorials](#linux-tutorials)
