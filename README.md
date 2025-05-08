@@ -5,8 +5,8 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#--introduction)
-- [Goals and Audience](#--goals-and-audience)
+- [Introduction](#-introduction)
+- [Goals and Audience](#-goals-and-audience)
 - Daily Breakdown
   - [Day 1: Introduction to Cybersecurity](#day-1-introduction-to-cybersecurity)
   - [Day 2-7: Network+ Concepts](#day-2-7-network)
@@ -20,7 +20,7 @@
   - [Day 85-90: Hacking](#day-85-90-hacking)
   - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
   - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
-- [Contributing](#--contributing)
+- [Contributing](#-contributing)
 
 ## 📘 Introduction
 
