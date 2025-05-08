@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [Goals and Audience](#goals-and-audience)
 - [Daily Breakdown](#daily-breakdown)
+  - [Day 1: Introduction to Cybersecurity](#introduction-to-cybersecurity)
   - [Day 1-7: Network+ Concepts](#network+-concepts)
   - [Day 8-14: Security+ Concepts](#Security+-concepts)
   - [Day 15-28: Linux Tutorials](#linux-tutorials)
@@ -28,6 +29,7 @@ This repository provides a structured, 90-day self-paced study plan designed to 
 
 The daily modules cover essential and advanced topics, including:
 
+- Introduction to Cybersecurity
 - Networking fundamentals (Network+)
 - Security principles (Security+)
 - Linux basics and shell scripting
@@ -66,6 +68,12 @@ This repository is ideal for:
 - **Anyone curious** about how cybersecurity works in real-world environments.
 
 No prior experience is required, though basic familiarity with computers, networks, or programming will be helpful.
+
+## Day 1: Introduction to Cybersecurity
+- Watch CBT Nugget's [Introduction to Cybersecurity playlist](https://www.youtube.com/playlist?list=PLQVJk9oC5JKq15cieChuOU9zFdf-FlnMi)
+- Read CXOTECH's ["The Evolution and Importance of Cybersecurity in the Digital Age"](https://cxotechmagazine.com/the-evolution-and-importance-of-cybersecurity-in-the-digital-age/)
+- Read NordVPN's ["Personal cybersecurity: 23 tips and best practices"](https://nordvpn.com/blog/personal-cybersecurity/)
+- Gain an understanding for the ever-changing presence and importance of cybersecurity in today's society, as well as obtain a general feel for the upcoming topics in the rest of the course
 
 ## Day 1-7: Network+
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
