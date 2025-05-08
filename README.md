@@ -10,16 +10,16 @@
 - [Daily Breakdown](#daily-breakdown)
   - [Day 1: Introduction to Cybersecurity](#day-1-introduction-to-cybersecurity)
   - [Day 2-7: Network+ Concepts](#day-2-7-network)
-  - [Day 8-14: Security+ Concepts](#Security+-concepts)
-  - [Day 15-28: Linux Tutorials](#linux-tutorials)
-  - [Day 29-42: Python](#python)
-  - [Day 43-56: Traffic Analysis](#traffic-analysis)
-  - [Day 57-63: Git](#git)
-  - [Day 64-70: ELK](#elk)
-  - [Day 71-77: GCP or AWS or Azure ](#gcp-or-aws-or-azure)
-  - [Day 85-90: Hacking](#hacking)
-  - [Day 91-92: One Page Resume](#one-page-resume)
-  - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
+  - [Day 8-14: Security+ Concepts](#day-8-14-security)
+  - [Day 15-28: Linux Tutorials](#day-15-28-linux)
+  - [Day 29-42: Python](#day-29-42-python)
+  - [Day 43-56: Traffic Analysis](#day-43-56-traffic-analysis)
+  - [Day 57-63: Git](#day-57-63-git)
+  - [Day 64-70: ELK](#day-64-70-elk)
+  - [Day 71-77: GCP or AWS or Azure ](#day-71-77-cloud-latforms)
+  - [Day 85-90: Hacking](#day-85-90-hacking)
+  - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
+  - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
 - [Contributing](#contributing)
 
 ## 📘 Introduction
@@ -165,7 +165,7 @@ Look for opportunities on LinkedIn: https://linkedin.com
 
 
 
-## 🎉 Contributors
+## 🎉 Contributing
 
 Thank you for being a part of the 90DaysOfCyberSecurity community! We appreciate everyone who helps improve our content.
 
