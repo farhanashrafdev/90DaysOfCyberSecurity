@@ -8,7 +8,7 @@
 - [Introduction](#introduction)
 - [Goals and Audience](#goals-and-audience)
 - [Daily Breakdown](#daily-breakdown)
-  - [Day 1: Introduction to Cybersecurity](#introduction-to-cybersecurity)
+  - [Day 1: Introduction to Cybersecurity](#day-1:-introduction-to-cybersecurity)
   - [Day 1-7: Network+ Concepts](#network+-concepts)
   - [Day 8-14: Security+ Concepts](#Security+-concepts)
   - [Day 15-28: Linux Tutorials](#linux-tutorials)
@@ -75,7 +75,7 @@ No prior experience is required, though basic familiarity with computers, networ
 - Read NordVPN's ["Personal cybersecurity: 23 tips and best practices"](https://nordvpn.com/blog/personal-cybersecurity/)
 - Gain an understanding for the ever-changing presence and importance of cybersecurity in today's society, as well as obtain a general feel for the upcoming topics in the rest of the course
 
-## Day 1-7: Network+
+## Day 2-7: Network+
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
 
