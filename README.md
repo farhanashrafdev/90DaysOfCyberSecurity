@@ -1,6 +1,6 @@
 # 90-Day Cybersecurity Study Plan
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 📚 Table of Contents
@@ -191,6 +191,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MahadMuhammad"><img src="https://avatars.githubusercontent.com/u/95980383?v=4?s=100" width="100px;" alt="Muhammad Mahad"/><br /><sub><b>Muhammad Mahad</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=MahadMuhammad" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/andreluis-oliveira"><img src="https://avatars.githubusercontent.com/u/53203742?v=4?s=100" width="100px;" alt="André Oliveira"/><br /><sub><b>André Oliveira</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=andreluis-oliveira" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArbenP"><img src="https://avatars.githubusercontent.com/u/62248907?v=4?s=100" width="100px;" alt="arbenp"/><br /><sub><b>arbenp</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=ArbenP" title="Documentation">📖</a> <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/issues?q=author%3AArbenP" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/paduh"><img src="https://avatars.githubusercontent.com/u/20698595?v=4?s=100" width="100px;" alt="paduh"/><br /><sub><b>paduh</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=paduh" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
