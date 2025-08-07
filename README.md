@@ -85,6 +85,7 @@ No prior experience is required, though basic familiarity with computers, networ
 ## Day 15-28: Linux
 - Browse through the Linux Journey tutorials: https://linuxjourney.com/
 - Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
+- Complete all Linux Hands-on Labs on LabEx: https://labex.io/free-labs/linux
 
 
 ## Day 29-42: Python
@@ -94,6 +95,8 @@ No prior experience is required, though basic familiarity with computers, networ
 - Talk Python to Me: https://talkpython.fm/
 - Read "Learn Python the Hard Way": https://learnpythonthehardway.org
 - HackerRank Python: https://www.hackerrank.com/domains/python
+- LabEx Learn Python by Labs: https://labex.io/free-labs/python
+
 ### Youtube Course:
 - https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor
 
