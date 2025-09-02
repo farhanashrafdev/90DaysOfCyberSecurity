@@ -40,7 +40,7 @@ The daily modules cover essential and advanced topics, including:
 - Cloud security with GCP, AWS and Azure
 - Penetration testing and ethical hacking
 
-Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`LEARN.md`](./LEARN.md).
+Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`learn.md`](./learn.md).
 
 ## 🎯 Goals and Audience
 
