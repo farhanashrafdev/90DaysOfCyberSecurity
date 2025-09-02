@@ -7,21 +7,22 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Goals and Audience](#goals-and-audience)
-- [Daily Breakdown](#daily-breakdown)
-  - [Day 1-7: Network+ Concepts](#network+-concepts)
-  - [Day 8-14: Security+ Concepts](#Security+-concepts)
-  - [Day 15-28: Linux Tutorials](#linux-tutorials)
-  - [Day 29-42: Python](#python)
-  - [Day 43-56: Traffic Analysis](#traffic-analysis)
-  - [Day 57-63: Git](#git)
-  - [Day 64-70: ELK](#elk)
-  - [Day 71-77: GCP or AWS or Azure ](#gcp-or-aws-or-azure)
-  - [Day 85-90: Hacking](#hacking)
-  - [Day 91-92: One Page Resume](#one-page-resume)
-  - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
-- [Contributing](#contributing)
+- [Introduction](#-introduction)
+- [Goals and Audience](#-goals-and-audience)
+- Daily Breakdown
+  - [Day 1: Introduction to Cybersecurity](#day-1-introduction-to-cybersecurity)
+  - [Day 2-7: Network+ Concepts](#day-2-7-network)
+  - [Day 8-14: Security+ Concepts](#day-8-14-security)
+  - [Day 15-28: Linux Tutorials](#day-15-28-linux)
+  - [Day 29-42: Python](#day-29-42-python)
+  - [Day 43-56: Traffic Analysis](#day-43-56-traffic-analysis)
+  - [Day 57-63: Git](#day-57-63-git)
+  - [Day 64-70: ELK](#day-64-70-elk)
+  - [Day 71-77: GCP or AWS or Azure ](#day-71-77-cloud-platforms)
+  - [Day 85-90: Hacking](#day-85-90-hacking)
+  - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
+  - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+- [Contributing](#-contributing)
 
 ## 📘 Introduction
 
@@ -30,6 +31,7 @@ This repository provides a structured, 90-day self-paced study plan designed to 
 
 The daily modules cover essential and advanced topics, including:
 
+- Introduction to Cybersecurity
 - Networking fundamentals (Network+)
 - Security principles (Security+)
 - Linux basics and shell scripting
@@ -69,7 +71,13 @@ This repository is ideal for:
 
 No prior experience is required, though basic familiarity with computers, networks, or programming will be helpful.
 
-## Day 1-7: Network+
+## Day 1: Introduction to Cybersecurity
+- Watch CBT Nugget's [Introduction to Cybersecurity playlist](https://www.youtube.com/playlist?list=PLQVJk9oC5JKq15cieChuOU9zFdf-FlnMi)
+- Read CXOTECH's ["The Evolution and Importance of Cybersecurity in the Digital Age"](https://cxotechmagazine.com/the-evolution-and-importance-of-cybersecurity-in-the-digital-age/)
+- Read NordVPN's ["Personal cybersecurity: 23 tips and best practices"](https://nordvpn.com/blog/personal-cybersecurity/)
+- Gain an understanding for the ever-changing presence and importance of cybersecurity in today's society, as well as obtain a general feel for the upcoming topics in the rest of the course
+
+## Day 2-7: Network+
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
 
@@ -162,7 +170,7 @@ Look for opportunities on LinkedIn: https://linkedin.com
 
 
 
-## 🎉 Contributors
+## 🎉 Contributing
 
 Thank you for being a part of the 90DaysOfCyberSecurity community! We appreciate everyone who helps improve our content.
 
