@@ -117,7 +117,9 @@ No prior experience is required, though basic familiarity with computers, networ
 - Follow the Git Immersion tutorial: http://gitimmersion.com
 - Try Git: https://try.github.io
 - Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
-
+  ### YouTube Course:
+- [Git Tutorial for Beginners – Full Course by Programming with Mosh](https://youtu.be/8JJ101D3knE?si=tO_1trtCLm5LDJKS)
+- [Git and GitHub Crash Course by Kunal Kushwaha](https://youtu.be/apGV9Kg7ics?si=gdv1LaMMhDTSz9Mu)
 ## Day 64-70: ELK
 - Follow the ELK Stack Tutorial on Logz.io: [https://logz.io/learn/complete-elk-stack-tutorial/](https://logz.io/learn/complete-guide-elk-stack/)
 - Browse through the ELK Stack tutorials on Elastic: [https://elastic.co/learn/elastic-stack](https://www.elastic.co/elastic-stack/features)
