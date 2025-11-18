@@ -1,6 +1,6 @@
 # 90-Day Cybersecurity Study Plan
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <a href="https://trendshift.io/repositories/1948" target="_blank"><img src="https://trendshift.io/api/badge/repositories/1948" alt="farhanashrafdev%2F90DaysOfCyberSecurity | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
@@ -197,6 +197,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/andreluis-oliveira"><img src="https://avatars.githubusercontent.com/u/53203742?v=4?s=100" width="100px;" alt="André Oliveira"/><br /><sub><b>André Oliveira</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=andreluis-oliveira" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArbenP"><img src="https://avatars.githubusercontent.com/u/62248907?v=4?s=100" width="100px;" alt="arbenp"/><br /><sub><b>arbenp</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=ArbenP" title="Documentation">📖</a> <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/issues?q=author%3AArbenP" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/paduh"><img src="https://avatars.githubusercontent.com/u/20698595?v=4?s=100" width="100px;" alt="paduh"/><br /><sub><b>paduh</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=paduh" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/emmanuel-ferdman"><img src="https://avatars.githubusercontent.com/u/35470921?v=4?s=100" width="100px;" alt="Emmanuel Ferdman"/><br /><sub><b>Emmanuel Ferdman</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/issues?q=author%3Aemmanuel-ferdman" title="Bug reports">🐛</a> <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=emmanuel-ferdman" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
