@@ -1,5 +1,10 @@
 # Learning Resources
 
+## Day 1: Introduction to Cybersecurity
+- CBT Nugget's [Introduction to Cybersecurity playlist](https://www.youtube.com/playlist?list=PLQVJk9oC5JKq15cieChuOU9zFdf-FlnMi)
+- CXOTECH's ["The Evolution and Importance of Cybersecurity in the Digital Age"](https://cxotechmagazine.com/the-evolution-and-importance-of-cybersecurity-in-the-digital-age/)
+- NordVPN's ["Personal cybersecurity: 23 tips and best practices"](https://nordvpn.com/blog/personal-cybersecurity/)
+
 ## Network+
 - Professor Messer's N10-009 Playlist: https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8
 
