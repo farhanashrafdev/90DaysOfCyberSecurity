@@ -114,6 +114,8 @@ No prior experience is required, though basic familiarity with computers, networ
 
 ## Day 57-63: Git
 - Complete Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
+- alternative = https://www.youtube.com/watch?v=zTjRZNkhiEU&pp=ygUOZ2l0IGFuZCBnaXRodWI%3D
+- 
 - Follow the Git Immersion tutorial: http://gitimmersion.com
 - Try Git: https://try.github.io
 - Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
