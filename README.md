@@ -150,6 +150,10 @@ No prior experience is required, though basic familiarity with computers, networ
 ### Youtube:
 - Ethical Hacking Part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM&ab_channel=TheCyberMentor
 - Ethical Hacking Part 2: https://www.youtube.com/watch?v=sH4JCwjybGs&ab_channel=TheCyberMentor
+### Hands-on Tools:
+- Practice rootkit detection and kernel integrity monitoring with rupurt: https://github.com/bad-antics/rupurt
+- Scan for RCE vulnerabilities in gaming software with RCE Shield: https://github.com/bad-antics/rce-shield
+- Explore OSINT, social engineering, and forensics with Baudrillard Suite: https://github.com/bad-antics/baudrillard-suite
 
 ## Day 91-92: One Page Resume
 - Use the provided resume template: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii

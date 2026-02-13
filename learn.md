@@ -47,6 +47,9 @@
 - Cyber Talents: https://cybertalents.com
 - Hack the Box: https://hackthebox.com
 - Vulnhub: https://vulnhub.com
+- rupurt (rootkit hunter & kernel integrity monitor): https://github.com/bad-antics/rupurt
+- RCE Shield (RCE hardening for gamers): https://github.com/bad-antics/rce-shield
+- Baudrillard Suite (OSINT, forensics & social engineering toolkit): https://github.com/bad-antics/baudrillard-suite
 
 ## WordPress Portfolio Creation
 - BowTiedCyber's guide to creating a cyber portfolio: https://bowtiedcyber.substack.com/p/how-to-make-a-killer-cyber-portfolio
