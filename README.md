@@ -18,6 +18,7 @@
   - [Day 57-63: Git](#git)
   - [Day 64-70: ELK](#elk)
   - [Day 71-77: GCP or AWS or Azure ](#gcp-or-aws-or-azure)
+  - [Day 78-84: Review and Practice](#review-and-practice)
   - [Day 85-90: Hacking](#hacking)
   - [Day 91-92: One Page Resume](#one-page-resume)
   - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
@@ -147,6 +148,12 @@ No prior experience is required, though basic familiarity with computers, networ
 - Go through Azure Fundamentals: https://learn.microsoft.com/en-us/training/azure/
 - Complete the [Microsoft Learn Azure labs](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) with sandbox environments
 
+## Day 78-84: Review and Practice
+- Go back through Days 1-77 and review any weak areas.
+- Complete hands-on challenges on TryHackMe: https://tryhackme.com
+- Set up a home lab using VirtualBox or VMware to practice what you have learned.
+- Try building a small project that combines networking, Linux, Python, and security concepts.
+
 ## Day 85-90: Hacking
 
 - Try to hack the challenges on Hack the Box: https://hackthebox.com
@@ -165,6 +172,11 @@ Search for jobs on Indeed: https://indeed.com
 Look for opportunities on LinkedIn: https://linkedin.com
 
 
+
+## Translations
+
+- [Russian / Русский](translations/ru/README.md)
+- [French / Francais](translations/fr/README.md)
 
 ## 🎉 Contributors
 
