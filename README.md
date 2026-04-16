@@ -41,7 +41,11 @@ The daily modules cover essential and advanced topics, including:
 - Penetration testing and ethical hacking
 
 Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`learn.md`](./learn.md).
+## 🚀 Interactive Version Available!
 
+Prefer a visual, clickable interface? Try the community-built **[Interactive 90-Day Cybersecurity Roadmap](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive)** — filter by phase, track your progress, and access all resources in one place.
+
+👉 **[Launch Live Demo](https://MOUKA-513.github.io/90DaysOfCyberSecurity-Interactive/)**
 ## 🎯 Goals and Audience
 
 ### 📌 Goals
