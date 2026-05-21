@@ -7,21 +7,22 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Goals and Audience](#goals-and-audience)
-- [Daily Breakdown](#daily-breakdown)
-  - [Day 1-7: Network+ Concepts](#network+-concepts)
-  - [Day 8-14: Security+ Concepts](#Security+-concepts)
-  - [Day 15-28: Linux Tutorials](#linux-tutorials)
-  - [Day 29-42: Python](#python)
-  - [Day 43-56: Traffic Analysis](#traffic-analysis)
-  - [Day 57-63: Git](#git)
-  - [Day 64-70: ELK](#elk)
-  - [Day 71-77: GCP or AWS or Azure ](#gcp-or-aws-or-azure)
-  - [Day 85-90: Hacking](#hacking)
-  - [Day 91-92: One Page Resume](#one-page-resume)
-  - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
-- [Contributing](#contributing)
+- [Introduction](#-introduction)
+- [Goals and Audience](#-goals-and-audience)
+- [Daily Breakdown](#-daily-breakdown)
+  - [Day 1-7: Network+ Concepts](#day-1-7-network)
+  - [Day 8-14: Security+ Concepts](#day-8-14-security)
+  - [Day 15-28: Linux Tutorials](#day-15-28-linux)
+  - [Day 29-42: Python](#day-29-42-python)
+  - [Day 43-56: Traffic Analysis](#day-43-56-traffic-analysis)
+  - [Day 57-63: Git](#day-57-63-git)
+  - [Day 64-70: ELK](#day-64-70-elk)
+  - [Day 71-77: Cloud Platforms](#day-71-77-cloud-platforms)
+  - [Day 78-84: Review & CTF Practice](#day-78-84-review--ctf-practice)
+  - [Day 85-90: Hacking](#day-85-90-hacking)
+  - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
+  - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+- [Contributors](#contributors-)
 
 ## 📘 Introduction
 
@@ -73,94 +74,101 @@ No prior experience is required, though basic familiarity with computers, networ
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
 
-## Day 8-14: Security+  
+## Day 8-14: Security+
 
-### Strongly Recommend Professor Messer's:  
-- Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)  
+### Strongly Recommend Professor Messer's:
+- Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 
-### Another Alternative You Can Use:  
-- Watch Pete Zerger's [SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)  
+### Another Alternative You Can Use:
+- Watch Pete Zerger's [SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)
 
-### Additional Practice:  
-- Complete any related practice questions or exercises. 
+### Additional Practice:
+- Complete any related practice questions or exercises.
 
 ## Day 15-28: Linux
-- Browse through the Linux Journey tutorials: https://linuxjourney.com/
-- Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
-- Complete all Linux Hands-on Labs on LabEx: https://labex.io/free-labs/linux
-
+- [Linux Journey](https://linuxjourney.com/) — interactive browser-based Linux tutorials
+- [Linux Unhatched – Cisco NetAcad](https://www.netacad.com/courses/linux-unhatched) — free beginner course with hands-on labs
+- [Linux Hands-on Labs – LabEx](https://labex.io/free-labs/linux) — free interactive lab environment, no setup required
 
 ## Day 29-42: Python
-- Complete Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
-- Python.org: https://www.python.org/
-- Real Python: https://realpython.com/
-- Talk Python to Me: https://talkpython.fm/
-- Read "Learn Python the Hard Way": https://learnpythonthehardway.org
-- HackerRank Python: https://www.hackerrank.com/domains/python
-- LabEx Learn Python by Labs: https://labex.io/free-labs/python
+- [Learn Python – Codecademy](https://codecademy.com/learn/learn-python) — structured beginner course, good starting point
+- [Python.org](https://www.python.org/) — official documentation, tutorials, and language reference
+- [Real Python](https://realpython.com/) — tutorials and articles covering beginner to advanced topics
+- [Talk Python to Me](https://talkpython.fm/) — podcast covering Python tools, libraries, and ecosystem
+- [Learn Python the Hard Way](https://learnpythonthehardway.org) — book with a strict project-based, exercise-heavy approach
+- [HackerRank Python](https://www.hackerrank.com/domains/python) — practice challenges to test and reinforce concepts
+- [LabEx Learn Python by Labs](https://labex.io/free-labs/python) — browser-based lab environment, no local setup needed
 
 ### Youtube Course:
-- https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor
-
+- [Python for Beginners – The Cyber Mentor](https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor) — security-focused Python course
 
 ## Day 43-56: Traffic Analysis
-- Take the Wireshark University course: https://www.wireshark.org/#educationalContent
-- Follow the Wireshark Tutorial on guru99: https://guru99.com/wireshark-tutorial.html
-- Read through the TCPdump Tutorial on DanielMiessler: https://danielmiessler.com/study/tcpdump/
-- Read through the Suricata on pfSense guide: https://doc.pfsense.org/index.php/Suricata
-  ### Youtube:
-- Wireshark Tutorial for Beginners series https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB
-- Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
+- [Wireshark University](https://www.wireshark.org/#educationalContent) — official educational content and courses
+- [Wireshark Tutorial – Guru99](https://guru99.com/wireshark-tutorial.html) — beginner-friendly walkthrough
+- [TCPdump Tutorial – Daniel Miessler](https://danielmiessler.com/study/tcpdump/) — comprehensive command-line packet analysis guide
+- [Suricata on pfSense Guide](https://doc.pfsense.org/index.php/Suricata) — setting up network IDS/IPS
+
+### Youtube:
+- [Wireshark Tutorial for Beginners series](https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB)
+- [Suricata Network IDS/IPS](https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs)
 
 ## Day 57-63: Git
-- Complete Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
-- Follow the Git Immersion tutorial: http://gitimmersion.com
-- Try Git: https://try.github.io
-- Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
+- [Learn Git – Codecademy](https://codecademy.com/learn/learn-git) — structured beginner course
+- [Git Immersion](https://gitimmersion.com) — guided tour through Git fundamentals
+- [Try Git](https://try.github.io) — quick interactive intro
+- [Learn Git Branching](https://learngitbranching.js.org/) — interactive Git CLI simulator, great for visualising branches
 
 ## Day 64-70: ELK
-- Follow the ELK Stack Tutorial on Logz.io: [https://logz.io/learn/complete-elk-stack-tutorial/](https://logz.io/learn/complete-guide-elk-stack/)
-- Browse through the ELK Stack tutorials on Elastic: [https://elastic.co/learn/elastic-stack](https://www.elastic.co/elastic-stack/features)
+- [Complete Guide to the ELK Stack – Logz.io](https://logz.io/learn/complete-guide-elk-stack/) — end-to-end ELK Stack tutorial
+- [Elastic Stack Features – Elastic](https://www.elastic.co/elastic-stack/features) — official overview of the full Elastic Stack
 
 ## Day 71-77: Cloud Platforms
 
-## Any one of them works fine.
+Choose any one cloud platform — all three paths are equally valid for this week.
 
 ### GCP:
--  Explore the GCP Getting Started Resource : https://cloud.google.com/getting-started/
--  Google Cloud Platform Documentation: https://cloud.google.com/docs/
--  Google Cloud Platform Blog: https://cloud.google.com/blog/
--  Google Cloud Platform Community: https://cloud.google.com/community/
--   Try hands-on challenges with [Google Cloud Skills Boost](https://www.cloudskillsboost.google)
+- [GCP Getting Started](https://cloud.google.com/getting-started/) — official introduction and quickstarts
+- [GCP Documentation](https://cloud.google.com/docs/)
+- [GCP Blog](https://cloud.google.com/blog/)
+- [GCP Community](https://cloud.google.com/community/)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google) — hands-on challenges and learning paths
 
-### AWS
-- Explore the AWS Getting Started Resource Center: https://aws.amazon.com/getting-started/
-- Browse through the AWS Tutorials: https://aws.amazon.com/tutorials/
-- Learn through gamified labs on [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+### AWS:
+- [AWS Getting Started](https://aws.amazon.com/getting-started/) — resource center for new users
+- [AWS Tutorials](https://aws.amazon.com/tutorials/)
+- [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/) — gamified hands-on labs
 
+### Azure:
+- [Azure Fundamentals – Microsoft Learn](https://learn.microsoft.com/en-us/training/azure/)
+- [Azure Fundamentals Learning Path](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) — includes sandbox lab environments
 
-###  Azure
-- Go through Azure Fundamentals: https://learn.microsoft.com/en-us/training/azure/
-- Complete the [Microsoft Learn Azure labs](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) with sandbox environments
+## Day 78-84: Review & CTF Practice
+
+Use this week to consolidate everything from the past 11 weeks before moving into active hacking.
+
+- Review weak areas from Networking, Security+, and Linux
+- Attempt beginner-friendly rooms on [TryHackMe](https://tryhackme.com)
+- Try entry-level challenges on [Hack The Box](https://hackthebox.com)
+- Set up a personal home lab using VirtualBox or VMware
+- Document your progress and identify gaps before the final week
 
 ## Day 85-90: Hacking
 
-- Try to hack the challenges on Hack the Box: https://hackthebox.com
-- Practice on vulnerable machines on Vulnhub: https://vulnhub.com
+- [Hack The Box](https://hackthebox.com) — practice on real vulnerable machines
+- [VulnHub](https://vulnhub.com) — downloadable vulnerable VMs for offline practice
+
 ### Youtube:
-- Ethical Hacking Part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM&ab_channel=TheCyberMentor
-- Ethical Hacking Part 2: https://www.youtube.com/watch?v=sH4JCwjybGs&ab_channel=TheCyberMentor
+- [Ethical Hacking Part 1 – The Cyber Mentor](https://www.youtube.com/watch?v=3FNYvj2U0HM&ab_channel=TheCyberMentor)
+- [Ethical Hacking Part 2 – The Cyber Mentor](https://www.youtube.com/watch?v=sH4JCwjybGs&ab_channel=TheCyberMentor)
 
 ## Day 91-92: One Page Resume
-- Use the provided resume template: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii
-- Cybersecurity Resume Template: https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume
-- Cybersecurity Resume from Resume-Now: [https://www.resume-now.com/templates/cyber-security-resume](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist)
- This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical   skills.
+- [Killer Cyber Resume – BowTiedCyber](https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii)
+- [Cybersecurity Resume Advice – Indeed](https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume)
+- [Cyber Security Specialist Template – Resume-Now](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist) — includes sections for skills, certifications, experience, education, and a summary.
+
 ## Day 93-95: Where and How to Apply
-Search for jobs on Indeed: https://indeed.com
-Look for opportunities on LinkedIn: https://linkedin.com
-
-
+- [Indeed](https://indeed.com) — broad job search across all experience levels
+- [LinkedIn Jobs](https://linkedin.com) — network-connected job search and recruiter outreach
 
 ## 🎉 Contributors
 
@@ -178,8 +186,6 @@ Thank you for being a part of the 90DaysOfCyberSecurity community! We appreciate
 - **Mentoring**: Help others with study advice, tips, or hosting study sessions.
 
 Thank you to all contributors for your amazing work! 🎉
-
-
 
 ## Contributors ✨
 
@@ -208,4 +214,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
+ENDOFFILE
