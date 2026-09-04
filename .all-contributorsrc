@@ -71,6 +71,16 @@
         "bug",
         "doc"
       ]
+    },
+    {
+      "login": "king-tri-ton",
+      "name": "King Triton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53092931?v=4",
+      "profile": "https://github.com/king-tri-ton",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
