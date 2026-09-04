@@ -16,16 +16,17 @@
 - Linux Unhatched course on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
 
 ## Python
-- Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
+- freeCodeCamp's Learn Python - Full Course for Beginners (free): https://www.youtube.com/watch?v=rfscVS0vtbw
+- Codecademy's Learn Python Track (free tier covers the basics): https://codecademy.com/learn/learn-python
 - SoloLearn's Python Tutorial: https://sololearn.com/Course/Python/
 - Learn Python the Hard Way: https://learnpythonthehardway.org
 
 ## Traffic Analysis
-- Wireshark University: https://wireshark.org/training/
+- Wireshark University: https://www.wireshark.org/#educationalContent
 - Wireshark Tutorial on guru99: https://guru99.com/wireshark-tutorial.html
 - TCPdump Tutorial by DanielMiessler: https://danielmiessler.com/study/tcpdump/
 - Suricata IDS/IPS System Tutorial on YouTube: https://youtube.com/watch?v=DZl7mW8OvZg
-- Suricata on pfSense: https://doc.pfsense.org/index.php/Suricata
+- Suricata Quickstart guide: https://docs.suricata.io/en/latest/quickstart.html
 
 ## Git
 - Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
@@ -33,8 +34,8 @@
 - Try Git: https://try.github.io
 
 ## ELK
-- ELK Stack Tutorial on Logz.io: https://logz.io/learn/complete-elk-stack-tutorial/
-- ELK Stack tutorials on Elastic: https://elastic.co/learn/elastic-stack
+- Complete Guide to the ELK Stack on Logz.io: https://logz.io/learn/complete-guide-elk-stack/
+- Elastic Stack getting-started docs: https://www.elastic.co/docs/get-started
 
 ## AWS
 - AWS Getting Started Resource Center: https://aws.amazon.com/getting-started/
@@ -63,3 +64,6 @@
 ## Where and How to Apply
 - Indeed: https://indeed.com
 - LinkedIn: https://linkedin.com
+- CyberSeek career pathways: https://www.cyberseek.org/pathway.html
+- career-ops (open-source AI job-search pipeline: evaluate postings, tailor your CV, track applications): https://github.com/career-ops-hq/career-ops
+- career-ops on a free tier (Antigravity CLI, no API key): https://github.com/career-ops-hq/career-ops/blob/main/docs/FREE_TIER.md
