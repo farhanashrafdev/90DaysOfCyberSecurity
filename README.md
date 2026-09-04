@@ -25,7 +25,7 @@
   - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
   - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
 - [Translations](#translations)
-- [Contributing](#-contributors)
+- [Contributors](#-contributors)
 
 ## 📘 Introduction
 
@@ -191,7 +191,7 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 ### Run your job search with career-ops
 [career-ops](https://github.com/career-ops-hq/career-ops) is a free, open-source job-search system that runs inside an AI coding CLI such as Claude Code, Codex, OpenCode, GitHub Copilot CLI or Antigravity CLI ([free tier](https://github.com/career-ops-hq/career-ops/blob/main/docs/FREE_TIER.md), no API key needed). Paste a job URL and it scores the posting against your `cv.md` (1-5), generates an ATS-friendly tailored PDF and tracks every application in one place. It never applies for you; you always review and submit.
 
-1. **Set up (Day 93):** install [Node.js](https://nodejs.org), run `npx @santifer/career-ops init`, then open your AI CLI in the new `career-ops` folder and follow the onboarding chat. Tell it your target roles (for example *SOC analyst, security analyst, junior penetration tester*) so the evaluations fit entry-level security jobs.
+1. **Set up (Day 93):** install [Node.js](https://nodejs.org), skim the [setup guide](https://github.com/career-ops-hq/career-ops/blob/main/docs/SETUP.md), then run `npx @santifer/career-ops init`. Good security habit: `npx` downloads and runs the latest release, so check the [release notes](https://github.com/career-ops-hq/career-ops/releases) before running it (pin a version with `@santifer/career-ops@<version>` if you want a reproducible install). Open your AI CLI in the new `career-ops` folder and follow the onboarding chat. Tell it your target roles (for example *SOC analyst, security analyst, junior penetration tester*) so the evaluations fit entry-level security jobs.
 2. **Evaluate (Day 94):** paste 10-20 postings you found on Indeed or LinkedIn. Only apply to roles that score 4.0/5 or higher; treat it as a filter, not a spray-and-pray tool.
 3. **Apply and prepare (Day 95):** generate tailored CVs for your shortlist, apply, and use the interview-prep mode to build your STAR stories before the first call.
 
