@@ -7,22 +7,25 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Goals and Audience](#goals-and-audience)
-- [Daily Breakdown](#daily-breakdown)
-  - [Day 1-7: Network+ Concepts](#network+-concepts)
-  - [Day 8-14: Security+ Concepts](#Security+-concepts)
-  - [Day 15-28: Linux Tutorials](#linux-tutorials)
-  - [Day 29-42: Python](#python)
-  - [Day 43-56: Traffic Analysis](#traffic-analysis)
-  - [Day 57-63: Git](#git)
-  - [Day 64-70: ELK](#elk)
-  - [Day 71-77: GCP or AWS or Azure ](#gcp-or-aws-or-azure)
-  - [Day 78-84: Review and Practice](#review-and-practice)
-  - [Day 85-90: Hacking](#hacking)
-  - [Day 91-92: One Page Resume](#one-page-resume)
-  - [Day 93-95: Where and How to Apply](#where-and-how-to-apply)
-- [Contributing](#contributing)
+- [Introduction](#-introduction)
+- [Goals and Audience](#-goals-and-audience)
+- [Start Here](#-start-here)
+- Daily Breakdown
+  - [Day 1-7: Network+](#day-1-7-network)
+  - [Day 8-14: Security+](#day-8-14-security)
+  - [Day 15-28: Linux](#day-15-28-linux)
+  - [Day 29-42: Python](#day-29-42-python)
+  - [Day 43-56: Traffic Analysis](#day-43-56-traffic-analysis)
+  - [Day 57-63: Git](#day-57-63-git)
+  - [Day 64-70: ELK](#day-64-70-elk)
+  - [Day 71-77: Cloud Platforms (GCP, AWS or Azure)](#day-71-77-cloud-platforms)
+  - [Day 78-84: Review and Practice](#day-78-84-review-and-practice)
+  - [Day 85-90: Hacking](#day-85-90-hacking)
+- Bonus: Landing the Job
+  - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
+  - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+- [Translations](#translations)
+- [Contributing](#-contributors)
 
 ## 📘 Introduction
 
@@ -40,6 +43,7 @@ The daily modules cover essential and advanced topics, including:
 - SIEM tools and log analysis using the ELK stack
 - Cloud security with GCP, AWS and Azure
 - Penetration testing and ethical hacking
+- Landing the job: a one-page resume and an AI-assisted job-search pipeline with career-ops
 
 Each day is designed with actionable tasks, tutorials, and reading materials to help you stay on track. For a full list of resources, refer to [`learn.md`](./learn.md).
 
@@ -70,6 +74,18 @@ This repository is ideal for:
 
 No prior experience is required, though basic familiarity with computers, networks, or programming will be helpful.
 
+## 🚀 Start Here
+
+New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
+
+- **Time budget:** aim for 1-2 focused hours a day. The day numbers are a guide, not a deadline; it is fine to spend longer on a topic.
+- **Follow the order:** Days 1-28 (networking, security basics, Linux) are the foundation everything else builds on. Do not skip ahead to hacking.
+- **Certifications are optional:** the Network+ and Security+ playlists teach the concepts you need. You do not have to sit the exams to follow this plan or to get a first job.
+- **Track your progress:** fork this repo (or copy the plan into a notes file) and tick off each day as you finish it.
+- **Everything is free:** if a site puts content behind a paywall, use the alternatives listed in the same section or in [`learn.md`](./learn.md).
+- **Questions or study buddies:** use [GitHub Discussions](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/discussions). Issues are for broken links and content fixes.
+- **Prefer another language?** See [Translations](#translations).
+
 ## Day 1-7: Network+
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
@@ -92,7 +108,8 @@ No prior experience is required, though basic familiarity with computers, networ
 
 
 ## Day 29-42: Python
-- Complete Codecademy's Learn Python Track: https://codecademy.com/learn/learn-python
+- Watch freeCodeCamp's [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) (free, ~4.5 hours)
+- Complete Codecademy's Learn Python Track (the free tier covers the basics; later lessons need a subscription): https://codecademy.com/learn/learn-python
 - Python.org: https://www.python.org/
 - Real Python: https://realpython.com/
 - Talk Python to Me: https://talkpython.fm/
@@ -108,8 +125,9 @@ No prior experience is required, though basic familiarity with computers, networ
 - Take the Wireshark University course: https://www.wireshark.org/#educationalContent
 - Follow the Wireshark Tutorial on guru99: https://guru99.com/wireshark-tutorial.html
 - Read through the TCPdump Tutorial on DanielMiessler: https://danielmiessler.com/study/tcpdump/
-- Read through the Suricata on pfSense guide: https://doc.pfsense.org/index.php/Suricata
-  ### Youtube:
+- Read through the Suricata Quickstart guide: https://docs.suricata.io/en/latest/quickstart.html
+
+### Youtube:
 - Wireshark Tutorial for Beginners series https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB
 - Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
 
@@ -120,8 +138,8 @@ No prior experience is required, though basic familiarity with computers, networ
 - Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
 
 ## Day 64-70: ELK
-- Follow the ELK Stack Tutorial on Logz.io: [https://logz.io/learn/complete-elk-stack-tutorial/](https://logz.io/learn/complete-guide-elk-stack/)
-- Browse through the ELK Stack tutorials on Elastic: [https://elastic.co/learn/elastic-stack](https://www.elastic.co/elastic-stack/features)
+- Follow the Complete Guide to the ELK Stack on Logz.io: https://logz.io/learn/complete-guide-elk-stack/
+- Get started with the Elastic Stack using the official docs: https://www.elastic.co/docs/get-started
 
 ## Day 71-77: Cloud Platforms
 
@@ -162,10 +180,20 @@ No prior experience is required, though basic familiarity with computers, networ
 - Use the provided resume template: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii
 - Cybersecurity Resume Template: https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume
 - Cybersecurity Resume from Resume-Now: [https://www.resume-now.com/templates/cyber-security-resume](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist)
- This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical   skills.
+  This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical skills.
+- Save a copy of your finished resume as Markdown (`cv.md`) as well; you will reuse it with career-ops on Day 93. List the labs, CTF rooms and projects from Days 15-90 as hands-on experience.
+
 ## Day 93-95: Where and How to Apply
-Search for jobs on Indeed: https://indeed.com
-Look for opportunities on LinkedIn: https://linkedin.com
+- Search for jobs on Indeed: https://indeed.com
+- Look for opportunities on LinkedIn: https://linkedin.com
+- Explore entry-level cybersecurity roles and career pathways on CyberSeek: https://www.cyberseek.org/pathway.html
+
+### Run your job search with career-ops
+[career-ops](https://github.com/career-ops-hq/career-ops) is a free, open-source job-search system that runs inside an AI coding CLI such as Claude Code, Codex, OpenCode, GitHub Copilot CLI or Antigravity CLI ([free tier](https://github.com/career-ops-hq/career-ops/blob/main/docs/FREE_TIER.md), no API key needed). Paste a job URL and it scores the posting against your `cv.md` (1-5), generates an ATS-friendly tailored PDF and tracks every application in one place. It never applies for you; you always review and submit.
+
+1. **Set up (Day 93):** install [Node.js](https://nodejs.org), run `npx @santifer/career-ops init`, then open your AI CLI in the new `career-ops` folder and follow the onboarding chat. Tell it your target roles (for example *SOC analyst, security analyst, junior penetration tester*) so the evaluations fit entry-level security jobs.
+2. **Evaluate (Day 94):** paste 10-20 postings you found on Indeed or LinkedIn. Only apply to roles that score 4.0/5 or higher; treat it as a filter, not a spray-and-pray tool.
+3. **Apply and prepare (Day 95):** generate tailored CVs for your shortlist, apply, and use the interview-prep mode to build your STAR stories before the first call.
 
 
 
