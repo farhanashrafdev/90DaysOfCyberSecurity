@@ -43,6 +43,11 @@
 ## Azure
 - Azure Fundamentals: https://learn.microsoft.com/training/azure/
 
+## Review and Practice
+- TryHackMe: https://tryhackme.com
+- VirtualBox: https://www.virtualbox.org/
+- VMware Workstation Player: https://www.vmware.com/products/workstation-player.html
+
 ## Hacking
 - Cyber Talents: https://cybertalents.com
 - Hack the Box: https://hackthebox.com
