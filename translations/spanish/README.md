@@ -10,7 +10,6 @@ Este repositorio ofrece un plan de estudio estructurado de 90 dias a tu propio r
 - [Introduccion](#introduccion)
 - [Objetivos y Audiencia](#objetivos-y-audiencia)
 - [Desglose Diario](#desglose-diario)
-- [Contribuir](#contribuir)
 
 ## Introduccion
 
