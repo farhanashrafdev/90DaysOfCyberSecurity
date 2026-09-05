@@ -24,6 +24,21 @@
 - Bonus: Landing the Job
 - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
 - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+
+  - [Day 1-7: Network+](#day-1-7-network)
+  - [Day 8-14: Security+](#day-8-14-security)
+  - [Day 15-28: Linux](#day-15-28-linux)
+  - [Day 29-42: Python](#day-29-42-python)
+  - [Day 43-56: Traffic Analysis](#day-43-56-traffic-analysis)
+  - [Day 57-63: Git](#day-57-63-git)
+  - [Day 64-70: ELK](#day-64-70-elk)
+  - [Day 71-77: Cloud Platforms (GCP, AWS or Azure)](#day-71-77-cloud-platforms)
+  - [Day 78-84: Review and Practice](#day-78-84-review-and-practice)
+  - [Day 85-90: Hacking](#day-85-90-hacking)
+- Bonus: Landing the Job
+  - [Day 91-92: One Page Resume](#day-91-92-one-page-resume)
+  - [Day 93-95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+
 - [Translations](#translations)
 - [Contributors](#-contributors)
 
@@ -180,7 +195,11 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - Use the provided resume template: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii
 - Cybersecurity Resume Template: https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume
 - Cybersecurity Resume from Resume-Now: [https://www.resume-now.com/templates/cyber-security-resume](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist)
+<<<<<<< HEAD
 This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical skills.
+=======
+  This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical skills.
+>>>>>>> upstream/main
 - Save a copy of your finished resume as Markdown (`cv.md`) as well; you will reuse it with career-ops on Day 93. List the labs, CTF rooms and projects from Days 15-90 as hands-on experience.
 
 ## Day 93-95: Where and How to Apply
@@ -202,6 +221,7 @@ Before using any AI CLI, redact sensitive personal data in `cv.md` (for example 
 - [Interactive 90-Day Cybersecurity Roadmap](https://MOUKA-513.github.io/90DaysOfCyberSecurity-Interactive/) by @MOUKA-513 — filter by phase and open every resource from one page ([source](https://github.com/MOUKA-513/90DaysOfCyberSecurity-Interactive)).
 
 
+
 ## Translations
 
 - [Arabic / العربية](translations/arabic/README.md)
@@ -211,6 +231,7 @@ Before using any AI CLI, redact sensitive personal data in `cv.md` (for example 
 - [Portuguese / Portugues](translations/portuguese/README.md)
 - [Russian / Русский](translations/russian/README.md)
 - [Spanish / Espanol](translations/spanish/README.md)
+
 
 ## 🎉 Contributors
 
@@ -239,6 +260,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
+<<<<<<< HEAD
 <tbody>
 <tr>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/farhanashrafdev"><img src="https://avatars.githubusercontent.com/u/53370109?v=4?s=100" width="100px;" alt="Farhan Ashraf"/><br /><sub><b>Farhan Ashraf</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=farhanashrafdev" title="Documentation">📖</a></td>
@@ -253,6 +275,22 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/king-tri-ton"><img src="https://avatars.githubusercontent.com/u/53092931?v=4?s=100" width="100px;" alt="King Triton"/><br /><sub><b>King Triton</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=king-tri-ton" title="Documentation">📖</a> <a href="#translation-king-tri-ton" title="Translation">🌍</a></td>
 </tr>
 </tbody>
+=======
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/farhanashrafdev"><img src="https://avatars.githubusercontent.com/u/53370109?v=4?s=100" width="100px;" alt="Farhan Ashraf"/><br /><sub><b>Farhan Ashraf</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=farhanashrafdev" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Wanderer479"><img src="https://avatars.githubusercontent.com/u/189002484?v=4?s=100" width="100px;" alt="Wanderer479"/><br /><sub><b>Wanderer479</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=Wanderer479" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MahadMuhammad"><img src="https://avatars.githubusercontent.com/u/95980383?v=4?s=100" width="100px;" alt="Muhammad Mahad"/><br /><sub><b>Muhammad Mahad</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=MahadMuhammad" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/andreluis-oliveira"><img src="https://avatars.githubusercontent.com/u/53203742?v=4?s=100" width="100px;" alt="André Oliveira"/><br /><sub><b>André Oliveira</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=andreluis-oliveira" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArbenP"><img src="https://avatars.githubusercontent.com/u/62248907?v=4?s=100" width="100px;" alt="arbenp"/><br /><sub><b>arbenp</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=ArbenP" title="Documentation">📖</a> <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/issues?q=author%3AArbenP" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/paduh"><img src="https://avatars.githubusercontent.com/u/20698595?v=4?s=100" width="100px;" alt="paduh"/><br /><sub><b>paduh</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=paduh" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/emmanuel-ferdman"><img src="https://avatars.githubusercontent.com/u/35470921?v=4?s=100" width="100px;" alt="Emmanuel Ferdman"/><br /><sub><b>Emmanuel Ferdman</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/issues?q=author%3Aemmanuel-ferdman" title="Bug reports">🐛</a> <a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=emmanuel-ferdman" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/king-tri-ton"><img src="https://avatars.githubusercontent.com/u/53092931?v=4?s=100" width="100px;" alt="King Triton"/><br /><sub><b>King Triton</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=king-tri-ton" title="Documentation">📖</a> <a href="#translation-king-tri-ton" title="Translation">🌍</a></td>
+    </tr>
+  </tbody>
+>>>>>>> upstream/main
 </table>
 
 <!-- markdownlint-restore -->
