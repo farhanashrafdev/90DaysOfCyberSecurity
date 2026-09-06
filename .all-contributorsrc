@@ -81,6 +81,15 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "cicada4O4",
+      "name": "Parth Dinesh Mane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254688267?v=4",
+      "profile": "http://parthmane.com",
+      "contributions": [
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
