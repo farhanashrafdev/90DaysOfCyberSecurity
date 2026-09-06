@@ -90,6 +90,179 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
 
+-*** this is the complete outlook of Professor Messer's playlist segretated to  be consumed throughout the week *** 
+
+## -Day 1 — Networking Fundamentals 1–14
+-OSI Model.
+
+-Networking Devices.
+
+-Network Functions.
+
+-Cloud.
+
+-IP Basics.
+
+-Ports & Protocols.
+
+-Wireless Basics.
+
+-Cabling Basics.
+
+-Why: Everything here builds the networking foundation.
+
+## -Day 2 — Physical & Logical Network Design 15–20
+
+-Transceivers.
+
+-Fiber/Copper Connectors.
+
+-Topologies.
+
+-Architectures.
+
+-Binary Math.
+
+-Start IPv4 21–22.
+
+-IPv4 Addressing.
+
+-Classful Subnetting.
+
+This is a natural transition from network design into addressing.
+
+## Day 3 — IP Addressing & Modern Networking 23–31
+
+-IPv4 Subnet Masks.
+
+-Calculating Subnets.
+
+-Magic Number Subnetting.
+
+-Seven Second Subnetting.
+
+-SDN.
+
+-VXLAN.
+
+-Zero Trust.
+
+-Infrastructure as Code.
+
+-IPv6 Addressing.
+
+ This is probably the most mentally demanding section.
+
+## Day 4 — Routing, Switching & Wireless 32–42
+
+-Static Routing.
+
+-Dynamic Routing.
+
+-Routing Technologies.
+
+-NAT.
+
+-VLANs.
+
+-interface Configurations.
+
+-STP.
+
+-Wireless Technologies.
+
+-Wireless Networking.
+
+-Network Types.
+
+-Wireless Encryption.
+
+-Everything here is one big interconnected topic.
+
+## Day 5 — Operations & Services 43–56
+
+-Installing Networks.
+
+-Power.
+
+-Environmental Factors.
+
+-Documentation.
+
+-Lifecycle Management.
+
+-Configuration Management.
+
+-SNMP.
+
+-Logs & Monitoring.
+
+-Disaster Recovery.
+
+-Redundancy.
+
+-DHCP.
+
+-IPv6 & SLAAC.
+This section is comparatively lighter conceptually.
+
+## Day 6 — Security 57–75
+
+-Authentication.
+
+-Authorization.
+
+-Accounting.
+
+-PKI.
+
+-Security Concepts.
+
+-Physical Security.
+
+-Network Attacks.
+
+-Rogue Services.
+
+-Social Engineering.
+
+-Malware.
+
+-Device Security.
+
+-Security Rules.
+
+ Keep all security content together. It reinforces itself.
+
+## Day 7 — Troubleshooting & Tools 76–87
+
+-Troubleshooting Methodology.
+
+-Cable Issues.
+
+-Interface Issues.
+
+-Hardware Issues.
+
+-Switching Issues.
+
+-Routing/IP Issues.
+
+-Performance Issues.
+
+-Wireless Issues.
+
+-Software Tools.
+
+-Command Line Tools.
+
+-Hardware Tools.
+
+-Basic Network Device Commands.
+
+## Perfect ending because troubleshooting naturally pulls together everything learned in Days 1–6.
+
+
 ## Day 8-14: Security+  
 
 ### Strongly Recommend Professor Messer's:  
