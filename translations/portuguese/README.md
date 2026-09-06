@@ -10,7 +10,6 @@ Este repositorio oferece um plano de estudo estruturado de 90 dias no seu propri
 - [Introducao](#introducao)
 - [Objetivos e Publico](#objetivos-e-publico)
 - [Detalhamento Diario](#detalhamento-diario)
-- [Contribuir](#contribuir)
 
 ## Introducao
 
