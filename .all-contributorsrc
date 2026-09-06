@@ -81,6 +81,16 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "mradil04",
+      "name": "Mr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199904212?v=4",
+      "profile": "https://github.com/mradil04",
+      "contributions": [
+        "design",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
