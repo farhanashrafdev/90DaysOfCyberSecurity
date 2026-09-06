@@ -100,6 +100,15 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "LUser-12",
+      "name": "LUser-12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183823828?v=4",
+      "profile": "https://github.com/LUser-12",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
