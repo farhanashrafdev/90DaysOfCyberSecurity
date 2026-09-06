@@ -195,11 +195,7 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - Use the provided resume template: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii
 - Cybersecurity Resume Template: https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume
 - Cybersecurity Resume from Resume-Now: [https://www.resume-now.com/templates/cyber-security-resume](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist)
-<<<<<<< HEAD
-This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical skills.
-=======
   This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical skills.
->>>>>>> upstream/main
 - Save a copy of your finished resume as Markdown (`cv.md`) as well; you will reuse it with career-ops on Day 93. List the labs, CTF rooms and projects from Days 15-90 as hands-on experience.
 
 ## Day 93-95: Where and How to Apply
