@@ -1,6 +1,6 @@
 # 90-Day Cybersecurity Study Plan
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <a href="https://trendshift.io/repositories/1948" target="_blank"><img src="https://trendshift.io/api/badge/repositories/1948" alt="farhanashrafdev%2F90DaysOfCyberSecurity | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
@@ -249,6 +249,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/king-tri-ton"><img src="https://avatars.githubusercontent.com/u/53092931?v=4?s=100" width="100px;" alt="King Triton"/><br /><sub><b>King Triton</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=king-tri-ton" title="Documentation">📖</a> <a href="#translation-king-tri-ton" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mradil04"><img src="https://avatars.githubusercontent.com/u/199904212?v=4?s=100" width="100px;" alt="Mr"/><br /><sub><b>Mr</b></sub></a><br /><a href="#design-mradil04" title="Design">🎨</a> <a href="#example-mradil04" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://parthmane.com"><img src="https://avatars.githubusercontent.com/u/254688267?v=4?s=100" width="100px;" alt="Parth Dinesh Mane"/><br /><sub><b>Parth Dinesh Mane</b></sub></a><br /><a href="#question-cicada4O4" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
 </table>
