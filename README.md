@@ -1,6 +1,6 @@
 # 90-Day Cybersecurity Study Plan
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <a href="https://trendshift.io/repositories/1948" target="_blank"><img src="https://trendshift.io/api/badge/repositories/1948" alt="farhanashrafdev%2F90DaysOfCyberSecurity | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
@@ -248,6 +248,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/king-tri-ton"><img src="https://avatars.githubusercontent.com/u/53092931?v=4?s=100" width="100px;" alt="King Triton"/><br /><sub><b>King Triton</b></sub></a><br /><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/commits?author=king-tri-ton" title="Documentation">📖</a> <a href="#translation-king-tri-ton" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LUser-12"><img src="https://avatars.githubusercontent.com/u/183823828?v=4?s=100" width="100px;" alt="LUser-12"/><br /><sub><b>LUser-12</b></sub></a><br /><a href="#ideas-LUser-12" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
