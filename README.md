@@ -100,6 +100,7 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 
 ### Additional Practice:  
 - Complete any related practice questions or exercises. 
+- [Security+ practice examples](https://getcertsprint.com/certifications/security-plus/practice-test#samples) — Three original, unofficial questions with explanations; free without an account. Full question bank is paid.
 
 ## Day 15-28: Linux
 - Browse through the Linux Journey tutorials: https://linuxjourney.com/
