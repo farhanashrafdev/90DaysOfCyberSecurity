@@ -89,6 +89,7 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 ## Day 1-7: Network+
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
+- Try three free interactive PBQs, no account needed: [CertBench Network+ PBQ examples](https://certbench.dev/network-plus-pbq-examples)
 
 ## Day 8-14: Security+  
 
@@ -100,6 +101,7 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 
 ### Additional Practice:  
 - Complete any related practice questions or exercises. 
+- Try three free interactive PBQs, no account needed: [CertBench Security+ PBQ examples](https://certbench.dev/security-plus-pbq-examples)
 
 ## Day 15-28: Linux
 - Browse through the Linux Journey tutorials: https://linuxjourney.com/
