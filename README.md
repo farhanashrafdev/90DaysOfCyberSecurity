@@ -187,6 +187,7 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - Search for jobs on Indeed: https://indeed.com
 - Look for opportunities on LinkedIn: https://linkedin.com
 - Explore entry-level cybersecurity roles and career pathways on CyberSeek: https://www.cyberseek.org/pathway.html
+- Find security jobs with posted pay, and see which certifications employers ask for, on infosecjobs.io: https://infosecjobs.io
 
 ### Run your job search with career-ops
 [career-ops](https://github.com/career-ops-hq/career-ops) is a free, open-source job-search system that runs inside an AI coding CLI such as Claude Code, Codex, OpenCode, GitHub Copilot CLI or Antigravity CLI ([free tier](https://github.com/career-ops-hq/career-ops/blob/main/docs/FREE_TIER.md), no API key needed). Paste a job URL and it scores the posting against your `cv.md` (1-5), generates an ATS-friendly tailored PDF and tracks every application in one place. It never applies for you; you always review and submit.
